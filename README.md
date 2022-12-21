@@ -1,3 +1,3 @@
 # some_projects
-Creating projcets and miniprojects and trying to make my skills better
+Creating projects,solving exercises and trying to make my skills better
 
